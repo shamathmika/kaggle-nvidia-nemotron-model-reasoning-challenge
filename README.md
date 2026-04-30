@@ -1,5 +1,6 @@
-# NVIDIA Nemotron Reasoning Challenge — CMPE 258 Assignment 3
+# NVIDIA Nemotron Reasoning Challenge
 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shamathmika/kaggle-nvidia-nemotron-model-reasoning-challenge/blob/main/nvidia-nemotron-sft-training.ipynb)
 [![Kaggle Competition](https://img.shields.io/badge/Kaggle-Competition-blue)](https://www.kaggle.com/competitions/nvidia-nemotron-model-reasoning-challenge)
 
 **Competition:** [NVIDIA Nemotron Model Reasoning Challenge](https://www.kaggle.com/competitions/nvidia-nemotron-model-reasoning-challenge/overview)  
