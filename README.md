@@ -35,9 +35,9 @@ Task types covered: Roman numerals, unit conversion, gravity/physics, text ciphe
 | LoRA alpha | 64 |
 | Target modules | in_proj, out_proj, up_proj, down_proj |
 | Training examples | 8,569 |
-| Epochs | 2 |
+| Epochs | 3 |
 | Max sequence length | 1024 |
-| Learning rate | 2e-4 |
+| Learning rate | 1e-4 |
 | LR schedule | Cosine |
 | Optimizer | AdamW (fused) |
 | Precision | BF16 |
@@ -51,7 +51,8 @@ Task types covered: Roman numerals, unit conversion, gravity/physics, text ciphe
 |------------|-------------|
 | Untrained baseline | 0.50 |
 | SFT 1 epoch, 512 tokens | 0.59 |
-| SFT 2 epochs, 1024 tokens | pending |
+| SFT 2 epochs, 1024 tokens | 0.63 |
+| SFT 4 epochs, 1024 tokens, LR 1e-4 | 0.61 |
 
 ---
 
